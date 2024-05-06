@@ -11,6 +11,6 @@ I'm a third year undergraduate student from [College of Computer Science](https:
 
 I'm very fortunate to be advised by [Prof. Peng Hu](https://penghu-cs.github.io/) of Machine Intelligence Lab from [College of Computer Science](https://cs.scu.edu.cn/),[Sichuan University](https://www.scu.edu.cn/).
 
-You can find my CV here: [Wang Longan's Curriculum Vitae](../Longan.github.io/assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Wang Longan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:wanglongan1007@gmail.com) / [Github](https://github.com/DIANLISAN) / [Wechat](../Longan.github.io/images/wechat.jpg)
+[Email](mailto:wanglongan1007@gmail.com) / [Github](https://github.com/DIANLISAN) / [Wechat](../images/wechat.jpg)

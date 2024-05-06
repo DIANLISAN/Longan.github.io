@@ -13,4 +13,4 @@ I'm very fortunate to be advised by [Prof. Peng Hu](https://penghu-cs.github.io/
 
 You can find my CV here: [Wang Longan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:wanglongan1007@gmail.com) / [Github](https://github.com/DIANLISAN) / [Wechat](../images/wechat.jpg)
+[Email](mailto:wanglongan1007@gmail.com) / [Github](https://https://github.com/LonganWANG-cs) / [Wechat](../images/wechat.jpg)

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [College of Computer Science](https://cs.scu.edu.cn/),[Sichuan University](https://www.scu.edu.cn/). My research interest includes cross-modal retrieval, noisy labels, machine learning, computer vision.
+I'm a third year undergraduate student from [College of Computer Science](https://cs.scu.edu.cn/),[Sichuan University](https://www.scu.edu.cn/). My research interest includes cross-modal retrieval, noisy labels, machine learning, computer vision, Natural Language Processing.
 
 I'm very fortunate to be advised by [Prof. Peng Hu](https://penghu-cs.github.io/) of Machine Intelligence Lab from [College of Computer Science](https://cs.scu.edu.cn/),[Sichuan University](https://www.scu.edu.cn/).
 

@@ -54,7 +54,7 @@ Project experience
   * Achieved precise and robust fruit classification and apple detection, followed by estimation of apple quantity, coordinates, ripeness, and mass, based on ResNet and Faster R-CNN, respectively.
   * Reduced the distance and angle bias by clustering apples at a pixel level with K-means algorithm.
   * Constructed a volume calculation model based on sphericity of apples.
-  * Achieved First Prize and Innovation Prize (Rate: 6/10000) in the 2023 APMCM as the team leader .
+  * Achieved First Prize and Innovation Prize (Rate: 6/10000, First Place) in the 2023 APMCM as the team leader .
  
 * **June 2023 ~ September 2023: Fresh Grocery Supermarket Replenishment and Pricing System**
   * Employed statistical analysis and seasonal time series to discern sales distribution and correlations in big data.
